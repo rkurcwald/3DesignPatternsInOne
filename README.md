@@ -1,3 +1,5 @@
+- [x] Polska wersja
+- [x] English version [~50%]
 # POLSKA WERSJA
 # Używanie 3 typów wzorców projektowych w aplikacji  
 ## Opis projektu:  
